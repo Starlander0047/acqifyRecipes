@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/acqifyRecipes/static/js/main.9f9dc605.js",
+    "main.js": "/acqifyRecipes/static/js/main.b1f684d1.js",
     "static/js/787.04a706ce.chunk.js": "/acqifyRecipes/static/js/787.04a706ce.chunk.js",
     "index.html": "/acqifyRecipes/index.html",
-    "main.9f9dc605.js.map": "/acqifyRecipes/static/js/main.9f9dc605.js.map",
+    "main.b1f684d1.js.map": "/acqifyRecipes/static/js/main.b1f684d1.js.map",
     "787.04a706ce.chunk.js.map": "/acqifyRecipes/static/js/787.04a706ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9f9dc605.js"
+    "static/js/main.b1f684d1.js"
   ]
 }
