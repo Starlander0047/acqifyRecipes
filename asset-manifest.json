@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/acqifyRecipes/static/js/main.60cc51f5.js",
+    "static/js/787.04a706ce.chunk.js": "/acqifyRecipes/static/js/787.04a706ce.chunk.js",
+    "index.html": "/acqifyRecipes/index.html",
+    "main.60cc51f5.js.map": "/acqifyRecipes/static/js/main.60cc51f5.js.map",
+    "787.04a706ce.chunk.js.map": "/acqifyRecipes/static/js/787.04a706ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.60cc51f5.js"
+  ]
+}
